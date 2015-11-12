@@ -1,4 +1,157 @@
+/*** Column System ***/
+.col-1 {
+	width: 8.3333%;
+}
+
+.col-2 {
+	width: 16.6666%;
+}
+
+.col-3 {
+	width: 25%;
+}
+
+.col-4 {
+	width: 33.3333%;
+}
+
+.col-5 {
+	width: 41.6666%;
+}
+
+.col-6 {
+	width: 50%;
+}
+
+.col-7 {
+	width: 58.3333%;
+}
+
+.col-8 {
+	width: 66.6666%;
+}
+
+.col-9 {
+	width: 75%;
+}
+
+.col-10 {
+	width: 83.3333%;
+}
+
+.col-11 {
+	width: 91.6666%;
+}
+
+.col-12 {
+	width: 100%;
+}
+
+/*** HOME ***/
+.home #tab-col1 .home-title-wrap {
+	background: url('http://www.genmag.com/wp-content/uploads/2015/10/sb.jpg');
+}
+
+.home #tab-col1 .home-title-wrap .side-list-title {
+	background: #fff;
+	padding: 1px 10px 1px 0;
+}
+
+#text-8 {
+	border-bottom: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+#sect-sidebar > div.widget-ad {
+	margin-bottom: 15px;
+}
+
+/** popular ***/
+.home #sect-sidebar {
+	margin: 27px 0 15px;
+}
+
+/*** Element Styling ***/
+h4 {
+	color: #00638a;
+}
+
+/*** Contributor Bio (Singular Page) ***/
+.con-div {
+	border: 1px solid rgba(230,230,230,0.8);
+	padding: 8px;
+	text-align: center;
+	float: left;
+	margin: 1%;
+	width: 300px;
+}
+
+.dr-name {
+	font-size: 22px;
+	color: white;
+	width: 41%;
+	line-height: 3;
+	background-color: #26ade5;
+	padding-left: 15px;
+	font-family: proxima-nova;
+	font-weight: 600;
+	margin-left: 12px;
+}
+
+.post-4771 .entry-title,
+.post-3362 .entry-title,
+.post-4762 .entry-title {
+	color: #000;
+	margin-top: 3%;
+	text-shadow: 0 0 0 #fff;
+}
+
+.bio {
+	background-color: #26ade5;
+	padding-left: 12px;
+	font-family: proxima-nova-extra-condensed;
+	font-weight: 500;
+	font-style: italic;
+	color: #fff;
+	display: inline;
+	padding-right: 304px;
+	font-size: 28px;
+	line-height: 1.5;
+}
+
+.studies {
+	font-family: proxima-nova-extra-condensed;
+	font-weight: 500;
+	font-style: italic;
+	color: #26ADF3;
+	padding-right: 390px;
+	font-size: 28px;
+	line-height: 1.5;
+	border-bottom: 1px solid #232323;
+}
+
+.post-4771 ul li,
+.post-3362 ul li,
+.post-4762 ul li {
+	font-style: italic;
+}
+
+#attachment_4582 {
+	margin-top: 0;
+}
+
 /*** Meet Our Team ***/
+.meet-div {
+	border: 1px solid rgba(230,230,230,0.8);
+	padding: 8px;
+	width: 160px;
+	text-align: center;
+	float: left;
+	margin: 1%;
+}
+
+/*** Contributor Bios ***/
 .con-bio-photo {
 	border: 1px solid rgba(230,230,230,0.8);
 	max-width: 96%;
@@ -8,7 +161,6 @@
 	width: 160px;
 }
 
-/*** Contributor Bios ***/
 h3.con {
 	background-color: #26ade5;
 	padding-left: 12px;
@@ -16,7 +168,7 @@ h3.con {
 	font-weight: 500;
 	font-style: italic;
 	color: #fff;
-	display: inline-block;
+	display: inline;
 	font-size: 28px;
 	line-height: 1.5;
 	width: 31.5%;
@@ -46,7 +198,190 @@ h3.con {
 	margin-bottom: 2px;
 }
 
-/* ingredients */
+/** ads **/
+#leader-wrap,
+.leader-right-wrap,
+#foot-ad-wrap {
+	background: transparent;
+}
+
+/*** search ***/
+.sf_search {
+	width: 100%;
+}
+
+#sf_results {
+	width: 160% !important;
+}
+
+#ajaxy_sf_widget-2 .home-title-wrap {
+	display: none;
+}
+
+#sf_val ul li.sf_selected {
+	background-color: #35AFE3 !important;
+	border-color: #00638A !important;
+	color: white !important;
+}
+
+.sf_search .sf_input {
+	width: 96% !important;
+}
+
+/**** Author Page ***/
+.author .up-author-profile.flat .nav-container {
+	border-bottom: 1px solid rgb(221,221,221) !important;
+	border-top: 1px solid rgb(221,221,221) !important;
+	border: none;
+}
+
+.author .up-author-profile.flat .profile-info {
+	border-bottom: 1px solid rgb(221,221,221) !important;
+	border-top: 1px solid rgb(221,221,221) !important;
+}
+
+.author .up-author-profile.flat .profile-info,
+.author .up-author-profile.flat .box-container {
+	width: 100%;
+}
+
+.author div.post-title .fa {
+	display: none;
+}
+
+.author .up-author-profile.flat .box-container {
+	margin-top: 10px;
+}
+
+.author .up-author-profile.flat .author-post .post-title {
+	border-top: 1px solid rgb(221,221,221);
+	width: 94.5%;
+	margin: 0 auto;
+}
+
+.author .up-author-profile.flat .author-post .post-title a {
+	margin-left: -10px;
+}
+
+.author .up-author-profile.flat .author-post,
+.author .up-author-profile.flat .profile-info,
+.author .up-author-profile.flat .comment-list,
+.author .up-author-profile.flat .author-about,
+.author .up-author-profile.flat .author-tab-box li,
+.author .up-author-profile.flat .author-post-list,
+.author .up-author-profile.flat .author-post:first-child .post-title {
+	border: none;
+	border-top: none;
+}
+
+.author .up-author-profile.flat .author-follow {
+	color: #35afe3;
+	border: 1px solid #35afe3;
+	background: #fff;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: .8rem;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.author .up-author-profile.flat .author-follow:hover {
+	background: #35afe3;
+	color: #fff !important;
+	-webkit-transition: all .25s;
+	-moz-transition: all .25s;
+	-ms-transition: all .25s;
+	-o-transition: all .25s;
+	transition: all .25s;
+}
+
+.author-sammy #home-mid-wrap > div > div.tabs-area > div.box-container > ul > li.box1.tab-box > div > div > div.post-title {
+	border-top: none;
+}
+
+.author-sammy .up-author-profile.flat .author-post:first-child .post-title {
+	border-top: 1px solid rgb(221,221,221);
+}
+
+/*** Article Style for Posts ***/
+.post h3 {
+	font-size: 2em !important;
+	color: #35afe3;
+}
+
+span.article-by {
+	color: #00638a;
+	font-weight: 700;
+}
+
+/* Article Source Styling Concept delete comment once accepted */
+.article-source {
+	margin: 2% 0;
+	padding: 1% 0;
+	background: #35afe3;
+	color: #fff;
+}
+
+.article-source>span {
+	font-size: 1.1em;
+	font-weight: 700;
+	margin-left: 1%;
+}
+
+.article-source>a {
+	color: #fff;
+	margin-left: 1%;
+}
+
+/* Article Lists */
+/* Article List Large */
+ol.article-list-large li {
+	margin-left: 0 !important;
+}
+
+/* Article List Small */
+ul.article-list-small {
+	background: #EEFAFF;
+	padding: 1% 0;
+/* Formerly --> border: solid 3px #35afe3; */
+}
+
+/*
+ul.article-list-small li {
+	margin-left: 50px !important;
+}
+*/
+ul.article-list-small li>span {
+	color: #00638a;
+}
+
+/* Red Tape Highlight Box for Important Details */
+.red-tape {
+	border: solid 1px #35afe3;
+	border-radius: 10px;
+	background-color: #EEFAFF;
+/* bgc options --> Light Red #FFDDDD and Light Green #DDFFE1 */
+	padding: 2%;
+}
+
+.red-tape>span {
+	display: block;
+	font-weight: 700;
+	color: #00638a;
+	font-size: 1.1em;
+}
+
+/* Span Notes */
+span.note {
+	color: #00638a;
+	font-weight: 700;
+}
+
+/*** Ingredients ***/
 .ing-index {
 	border-bottom: 1px solid #26ade5;
 	padding-bottom: 10px;
@@ -94,4 +429,164 @@ h3.con {
 	content: "-";
 	padding-right: 10px;
 	font-weight: 400;
+}
+
+.ing-group {
+/*something something something darkside */
+}
+
+.ing-group>h4 {
+	background: #eee;
+	padding: 5px;
+}
+
+ul.ing-group-col {
+	float: left;
+	width: 25%;
+	box-sizing: border-box;
+}
+
+ul.ing-group-col>li {
+	list-style: none;
+	font-size: .8em;
+	margin-left: 0 !important;
+	padding: 0 !important;
+}
+
+ul.ing-group-col>li:hover {
+	background: #D1EEFB;
+}
+
+.ing-index>a {
+	padding: 0 .5%;
+}
+
+.page-id-4799 #post-header > h1 {
+	margin-bottom: 40px;
+}
+
+.ingredient #post-header > span > a {
+	color: #fff;
+}
+
+.ingredient .avatar {
+	width: 50px;
+}
+
+.ing-index>a:hover {
+	background: #35afe3;
+	color: #fff;
+}
+
+.page-id-4799  #post-header {
+	padding: 0 !important;
+	margin-left: 30px;
+}
+
+/*** Individual Ingredient Pages ***/
+div.ingredient-row {
+	float: left;
+}
+
+div.ingredient-summary {
+	line-height: 24px;
+}
+
+div.ingredient-bullet-points {
+	float: right;
+	margin-left: 2%;
+}
+
+div.content-breaker {
+	width: 100%;
+	border-bottom: solid 3px #eee;
+	margin: 10px 0;
+}
+
+table.genmag-table {
+/*blank*/
+}
+
+table.genmag-table th {
+	border-bottom: solid 1px #eee;
+}
+
+table.genmag-table tr:nth-child(odd) {
+	background: #EEFAFF;
+}
+
+table.genmag-table thead tr {
+	background: #fff !important;
+}
+
+table.genmag-table th,	 	 
+table.genmag-table td {
+	padding: 1.5% !important;
+}
+
+div.content-row h3 {
+	color: #35afe3;
+}
+
+div.ingredient-where-to-find-products table.genmag-table td {
+	vertical-align: middle;
+	text-align: center;
+}
+
+div.ingredient-where-to-find-products table.genmag-table td img {
+	width: 59px;
+	height: 78px;
+}
+
+.single-ingredient ul.article-list-small {
+	padding: 20px 30px;
+	margin-top: 0 !important;
+}
+
+/*** Latest ***/
+@media only screen and (min-width: 768px) {
+	.page-template-page-latest #sidebar-wrap {
+		margin-top: 37px;
+	}
+}
+
+/*** Category Styles ***/
+span.Supplements.feat-cat,
+.category-supplements span.post-head-cat {
+	background: #ba0000;
+}
+
+span.Community.feat-cat,
+.category-community span.post-head-cat {
+	background: #ca00ef;
+}
+
+span.Training.feat-cat,
+.category-training span.post-head-cat {
+	background: #ffa200;
+}
+
+span.Nutrition.feat-cat,
+.category-nutrition span.post-head-cat {
+	background: #529a00;
+}
+
+span.Ingredients.feat-cat,
+.category-ingredients span.post-head-cat {
+	background: #35afe3;
+}
+
+/*** Author List ***/
+.page-template-author-list #archive-list-wrap div.author-page-img > img {
+	width: 100%;
+}
+
+.archive.author .up-author-profile.flat .author-post div.post-title {
+	margin: 0 20px;
+	line-height: .9;
+}
+
+.erico-author {
+	margin-left: -10px;
+	font-size: 16px;
 }
