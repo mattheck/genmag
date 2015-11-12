@@ -1,0 +1,11 @@
+/*
+Theme Name: Flex Mag Child
+Theme URI: http: //genmag.com/
+Description: This is a custom child theme for Flex Mag
+Author: My Name
+Author URI: http: //genmag.com/
+Template: flex-mag
+Version: 0.1
+*/
+
+@import url("../flex-mag/style.css");
