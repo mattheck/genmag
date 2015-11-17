@@ -1,0 +1,165 @@
+{
+  "bcaas":{
+    "_id":"bcaas",
+    "name":"BCAAs",
+    "bulletpoints":[
+      {
+        "text":"Improved muscle protein synthesis"
+      },
+      {
+        "text":"Reduce central fatigue"
+      },
+      {
+        "text":"Supports lean muscle growth"
+      },
+      {
+        "text":"Promotes glucose uptake in skeletal muscle"
+      },
+      {
+        "text":"Enhance strength performance"
+      }
+    ],
+    "summary":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio. Vivamus tincidunt nisl ac ante fringilla, in rutrum justo lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio.",
+    "resources":[
+      {
+        "site":"Examine.com",
+        "title":"Branched Chain Amino Acids (BCAAs)",
+        "link":"http://examine.com/supplements/branched-chain-amino-acids/"
+      },
+      {
+        "site":"Supplement Reviews",
+        "title":"BCAA Reviews",
+        "link":"http://supplementreviews.com/categories/amino-acids/bcaa-eaa"
+      },
+      {
+        "site":"Asgard Fit",
+        "title":"The Science of BCAAs",
+        "link":"http://www.asgardfit.com/bcaas-is-it-hype-or-real/"
+      },
+      {
+        "site":"Labdoor",
+        "title":"TOP 10 BCAAs (BRANCHED CHAIN AMINO ACIDS)",
+        "link":"https://labdoor.com/rankings/bcaa"
+      },
+      {
+        "site":"Breaking Muscle",
+        "title":"A Complete Primer on the Benefits of BCAAs",
+        "link":"http://breakingmuscle.com/supplements/a-complete-primer-on-the-benefits-of-bcaas"
+      },
+      {
+        "site":"Precision Nutrition",
+        "title":"All About BCAAs",
+        "link":"http://www.precisionnutrition.com/all-about-bcaas"
+      }
+    ],
+    "products":[
+      {
+        "name":"BCAA 3:1:2",
+        "image":"http://store.bbcomcdn.com/images//store/skuimage/sku_MPHARM2380036/image_skuMPHARM2380036_largeImage_X_130_white.jpg",
+        "brand":"MusclePharm",
+        "servingSize":"7.16g",
+        "servings":30
+      },
+      {
+        "name":"BCAA 5000 (2:1:1)",
+        "image":"http://store.bbcomcdn.com/images//store/skuimage/sku_EVL3460023/image_skuEVL3460023_largeImage_X_130_white.jpg",
+        "brand":"EVLUTION Nutrition",
+        "servingSize":"5g",
+        "servings":60
+      },
+      {
+        "name":"BCAA 1000 (400 Caps) (2:1:1)",
+        "image":"http://store.bbcomcdn.com/images/store/prodimage/prod_26062/image_26062_original_X_130_white.jpg",
+        "brand":"Optimum Nutrition",
+        "servingSize":"1g (2 Caps)",
+        "servings":200
+      },
+      {
+        "name":"BCAA Powder",
+        "image":"http://store.bbcomcdn.com/images//store/skuimage/sku_BBCOM704/image_skuBBCOM704_largeImage_X_130_white.jpg",
+        "brand":"Bodybuilding.com",
+        "servingSize":"5g",
+        "servings":60
+      },
+      {
+        "name":"BCAA",
+        "image":"http://store.bbcomcdn.com/images//store/skuimage/sku_FMISS2760112/image_skuFMISS2760112_largeImage_X_130_white.jpg",
+        "brand":"FitMiss",
+        "servingSize":"4.33g",
+        "servings":30
+      }
+    ]
+  },
+  "citrulline":{
+    "_id":"citrulline",
+    "name":"Citrulline",
+    "bulletpoints":[
+      {
+        "text":"Reduces fatigue"
+      },
+      {
+        "text":"Reduces muscle soreness"
+      },
+      {
+        "text":"Increases blood flow"
+      },
+      {
+        "text":"Improves endurance in aerobic and anaerobic exercise"
+      },
+      {
+        "text":"Improves nitric oxide metabolism"
+      },
+      {
+        "text":"Increases plasma arginine content"
+      }
+    ],
+    "summary":"Lorem ipsum dolor sit amet. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio. Vivamus tincidunt nisl ac ante fringilla, in rutrum justo lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio. Vivamus tincidunt nisl ac ante fringilla, in rutrum justo lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis.",
+    "resources":[
+      {
+        "site":"Examine.com",
+        "title":"Citrulline",
+        "link":"http://examine.com/supplements/Citrulline/"
+      },
+      {
+        "site":"Supplement Reviews",
+        "title":"Citrulline",
+        "link":"http://supplementreviews.com/ingredients/l-citrulline"
+      },
+      {
+        "site":"WebMD",
+        "title":"L-Citrulline Uses and Risks",
+        "link":"http://www.webmd.com/vitamins-and-supplements/l-citrulline-uses-and-risks"
+      }
+    ],
+    "products":[
+      {
+        "name":"Citrulline 200g",
+        "image":"http://store.bbcomcdn.com/images//store/skuimage/sku_KAG2920047/image_skuKAG2920047_largeImage_X_130_white.jpg",
+        "brand":"Kaged Muscle",
+        "servingSize":"2g",
+        "servings":100
+      },
+      {
+        "name":"Citrulline Malate (1:1)",
+        "image":"http://store.bbcomcdn.com/images//store/prodimage/prod_27951/image_27951_original_X_130_white.jpg",
+        "brand":"PrimaForce",
+        "servingSize":"1g",
+        "servings":100
+      },
+      {
+        "name":"L-Citrulline 750mg/90 Caps",
+        "image":"http://store.bbcomcdn.com/images//store/skuimage/sku_NOW521/image_skuNOW521_largeImage_X_130_white.jpg",
+        "brand":"NOW Nutraceuticals",
+        "servingSize":"750mg",
+        "servings":90
+      },
+      {
+        "name":"Citrulline Malate 200 Grams",
+        "image":"http://store.bbcomcdn.com/images//store/skuimage/sku_4DIM3570085/image_sku4DIM3570085_largeImage_X_130_white.jpg",
+        "brand":"4 Dimension Nutrition",
+        "servingSize":"2g",
+        "servings":"100"
+      }
+    ]
+  }
+}

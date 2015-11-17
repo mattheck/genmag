@@ -1,0 +1,2405 @@
+[{
+  "_id" : "5htp",
+  "name" : "5-HTP",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "7keto",
+  "name" : "7-Keto",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "aakg",
+  "name" : "AAKG",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "acetylLCarnitine",
+  "name" : "Acetyl L-Carnitine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "acidophilus",
+  "name" : "Acidophilus",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "agmatine",
+  "name" : "Agmatine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "alphaLipoicAcid",
+  "name" : "Alpha Lipoic Acid",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+
+{
+  "_id" : "aminoAcids",
+  "name" : "Amino Acids",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "antioxidants",
+  "name" : "text",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "arachidonicAcid",
+  "name" : "Arachidonic Acid",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "arginine",
+  "name" : "Arginine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "artichokeExtract",
+  "name" : "Artichoke Extract",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "ashwagandha",
+  "name" : "Ashwagandha",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "astaxanthin",
+  "name" : "Astaxanthin",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "astragalus",
+  "name" : "Astragalus",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "atp",
+  "name" : "ATP",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "bacopaMonniera",
+  "name" : "Bacopa monniera",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "bcaas",
+  "name" : "BCAAs",
+  "bulletpoints" : [
+    {"text":"Improved muscle protein synthesis"},
+    {"text":"Reduce central fatigue"},
+    {"text":"Supports lean muscle growth"},
+    {"text":"Promotes glucose uptake in skeletal muscle"},
+    {"text":"Enhance strength performance"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio. Vivamus tincidunt nisl ac ante fringilla, in rutrum justo lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio.",
+  "resources" : [
+    {
+      "site" : "Examine.com",
+      "title" : "Branched Chain Amino Acids (BCAAs)",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    },
+    {
+      "site" : "Supplement Reviews",
+      "title" : "BCAA Reviews",
+      "link" : "http://supplementreviews.com/categories/amino-acids/bcaa-eaa"
+    },
+    {
+      "site": "Asgard Fit",
+      "title": "The Science of BCAAs",
+      "link": "http://www.asgardfit.com/bcaas-is-it-hype-or-real/"
+    },
+    {
+      "site": "Labdoor",
+      "title": "TOP 10 BCAAs (BRANCHED CHAIN AMINO ACIDS)",
+      "link": "https://labdoor.com/rankings/bcaa"
+    },
+    {
+      "site": "Breaking Muscle",
+      "title": "A Complete Primer on the Benefits of BCAAs",
+      "link": "http://breakingmuscle.com/supplements/a-complete-primer-on-the-benefits-of-bcaas"
+    },
+    {
+      "site": "Precision Nutrition",
+      "title": "All About BCAAs",
+      "link": "http://www.precisionnutrition.com/all-about-bcaas"
+    }
+  ],
+  "products": [
+    {
+      "name": "BCAA 3:1:2",
+      "image": "http://store.bbcomcdn.com/images//store/skuimage/sku_MPHARM2380036/image_skuMPHARM2380036_largeImage_X_130_white.jpg",
+      "brand": "MusclePharm",
+      "servingSize": "7.16g",
+      "servings": 30
+    },
+    {
+      "name": "BCAA 5000 (2:1:1)",
+      "image": "http://store.bbcomcdn.com/images//store/skuimage/sku_EVL3460023/image_skuEVL3460023_largeImage_X_130_white.jpg",
+      "brand": "EVLUTION Nutrition",
+      "servingSize": "5g",
+      "servings": 60
+    },
+    {
+      "name": "BCAA 1000 (400 Caps) (2:1:1)",
+      "image": "http://store.bbcomcdn.com/images/store/prodimage/prod_26062/image_26062_original_X_130_white.jpg",
+      "brand": "Optimum Nutrition",
+      "servingSize": "1g (2 Caps)",
+      "servings": 200
+    },
+    {
+      "name": "BCAA Powder",
+      "image": "http://store.bbcomcdn.com/images//store/skuimage/sku_BBCOM704/image_skuBBCOM704_largeImage_X_130_white.jpg",
+      "brand": "Bodybuilding.com",
+      "servingSize": "5g",
+      "servings": 60
+    },
+    {
+      "name": "BCAA",
+      "image": "http://store.bbcomcdn.com/images//store/skuimage/sku_FMISS2760112/image_skuFMISS2760112_largeImage_X_130_white.jpg",
+      "brand": "FitMiss",
+      "servingSize": "4.33g",
+      "servings": 30
+    }
+  ]
+},
+
+{
+  "_id" : "beefProtein",
+  "name" : "Beef Protein",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "betaAlanine",
+  "name" : "Beta-Alanine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "betaine",
+  "name" : "Betaine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "bilberry",
+  "name" : "Bilberry",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "biotin",
+  "name" : "Biotin",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "boron",
+  "name" : "Boron",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "boswellia",
+  "name" : "Boswellia",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "bromelain",
+  "name" : "Bromelain",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "caffeine",
+  "name" : "Caffeine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "calcium",
+  "name" : "Calcium",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "carbohydrates",
+  "name" : "Carbohydrates",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "chitosan",
+  "name" : "Chitosan",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "choline",
+  "name" : "Choline",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "chondroitin",
+  "name" : "Chondroitin",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "chromium",
+  "name" : "Chromium",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "citrulline",
+  "name" : "Citrulline",
+  "bulletpoints" : [
+    {"text":"Reduces fatigue"},
+    {"text": "Reduces muscle soreness"},
+    {"text": "Increases blood flow"},
+    {"text":"Improves endurance in aerobic and anaerobic exercise"},
+    {"text": "Improves nitric oxide metabolism"},
+    {"text": "Increases plasma arginine content"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio. Vivamus tincidunt nisl ac ante fringilla, in rutrum justo lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis. Sed eu lorem felis. Praesent in dolor volutpat, ornare est eget, ultrices libero. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis aliquet, leo non aliquet elementum, lorem velit ultricies lorem, in tristique tortor leo nec odio. Vivamus tincidunt nisl ac ante fringilla, in rutrum justo lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eget egestas velit, at euismod lacus. Nam quis eros leo. Duis tempus lorem risus, sed mollis leo varius non. Sed eu lorem felis.",
+  "resources" : [
+    {
+      "site" : "Examine.com",
+      "title" : "Citrulline",
+      "link" : "http://examine.com/supplements/Citrulline/"
+    },
+    {
+      "site": "Supplement Reviews",
+      "title": "Citrulline",
+      "link": "http://supplementreviews.com/ingredients/l-citrulline"
+    },
+    {
+      "site": "WebMD",
+      "title": "L-Citrulline Uses and Risks",
+      "link": "http://www.webmd.com/vitamins-and-supplements/l-citrulline-uses-and-risks"
+    }
+  ],
+  "products": [
+    {
+      "name": "Citrulline 200g",
+      "image": "http://store.bbcomcdn.com/images//store/skuimage/sku_KAG2920047/image_skuKAG2920047_largeImage_X_130_white.jpg",
+      "brand": "Kaged Muscle",
+      "servingSize": "2g",
+      "servings": 100
+    },
+    {
+      "name": "Citrulline Malate (1:1)",
+      "image": "http://store.bbcomcdn.com/images//store/prodimage/prod_27951/image_27951_original_X_130_white.jpg",
+      "brand": "PrimaForce",
+      "servingSize": "1g",
+      "servings": 100
+    },
+    {
+      "name": "L-Citrulline 750mg/90 Caps",
+      "image": "http://store.bbcomcdn.com/images//store/skuimage/sku_NOW521/image_skuNOW521_largeImage_X_130_white.jpg",
+      "brand": "NOW Nutraceuticals",
+      "servingSize": "750mg",
+      "servings": 90
+    },
+    {
+      "name": "Citrulline Malate 200 Grams",
+      "image": "http://store.bbcomcdn.com/images//store/skuimage/sku_4DIM3570085/image_sku4DIM3570085_largeImage_X_130_white.jpg",
+      "brand": "4 Dimension Nutrition",
+      "servingSize": "2g",
+      "servings": "100"
+    }
+  ]
+},
+
+{
+  "_id" : "cla",
+  "name" : "CLA",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "coconutOil",
+  "name" : "Coconut Oil",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "coenzymeQ10",
+  "name" : "Coenzyme Q10",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "collagen",
+  "name" : "Collagen",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "creatine",
+  "name" : "Creatine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "curcumin",
+  "name" : "Curcumin",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "dAsparticAcid",
+  "name" : "D-Aspartic Acid",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "deerAntlerVelvet",
+  "name" : "Deer Antler Velvet",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "dhea",
+  "name" : "DHEA",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "diindolylmethane",
+  "name" : "Diindolylmethane",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "dmae",
+  "name" : "DMAE",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "echinacea",
+  "name" : "Echinacea",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "eggProtein",
+  "name" : "Egg Protein",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "enzymes",
+  "name" : "Enzymes",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "evodiamine",
+  "name" : "Evodiamine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "fenugreek",
+  "name" : "Fenugreek",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "fiber",
+  "name" : "Fiber",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "fishOil",
+  "name" : "Fish Oil",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "flaxSeedOil",
+  "name" : "Flax Seed Oil",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "folicAcid",
+  "name" : "Folic Acid",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "forskolin",
+  "name" : "Forskolin",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "glutamine",
+  "name" : "Glutamine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "grapeSeedExtract",
+  "name" : "Grape Seed Extract",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "Hydrolyzed Whey Protein",
+  "name" : "hydrolyzedWheyProtein",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "ipriflavone",
+  "name" : "Ipriflavone",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "isoleucine",
+  "name" : "Isoleucine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "jojoba",
+  "name" : "Jojoba",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "krillOil",
+  "name" : "Krill Oil",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "leucine",
+  "name" : "Leucine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "milkThistle",
+  "name" : "Milk Thistle",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "nAcetylLCysteine",
+  "name" : "N-Acetyl L-Cysteine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "nAcetylGlucosamine",
+  "name" : "N-Acetyl Glucosamine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "nAcetylLGlutamine",
+  "name" : "N-Acetyl L-Glutamine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "nAcetylLTyrosine",
+  "name" : "N-Acetyl L-Tyrosine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "nAcetylLCarnitine",
+  "name" : "N-Acetyl L-Carnitine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "niacin",
+  "name" : "Niacin",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "omega3",
+  "name" : "Omega-3",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "protein",
+  "name" : "Protein",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "purenergy",
+  "name" : "Purenergy",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "quercetin",
+  "name" : "Quercetin",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "raspberryKetones",
+  "name" : "Raspberry Ketones",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "same",
+  "name" : "SAMe",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "taurine",
+  "name" : "Taurine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "theanine",
+  "name" : "Theanine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "tyrosine",
+  "name" : "Tyrosine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "ubiquinol",
+  "name" : "Ubiquinol",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "velvetBean",
+  "name" : "Velvet Bean",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "valine",
+  "name" : "Valine",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "wheyProteinConcentrate",
+  "name" : "Whey Protein Concentrate",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "wheyProteinIsolate",
+  "name" : "Whey Protein Isolate",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "whiteWillowBark",
+  "name" : "White Willow Bark",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "xzkRedYeast",
+  "name" : "XZK (Red Yeast)",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "yohimbe",
+  "name" : "Yohimbe",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "zinc",
+  "name" : "Zinc",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+},
+
+{
+  "_id" : "zma",
+  "name" : "ZMA",
+  "bulletpoints" : [
+    {"text":"text"},
+    {"text":"text"}
+  ],
+  "summary" : "Lorem ipsum dolor sit amet.",
+  "resources" : [
+    {
+      "site" : "text",
+      "title" : "text",
+      "link" : "http://examine.com/supplements/branched-chain-amino-acids/"
+    }
+  ],
+  "products": [
+    {
+      "name": "text",
+      "image": "text",
+      "brand": "text",
+      "servingSize": "text",
+      "servings": "number"
+    }
+  ]
+}]
