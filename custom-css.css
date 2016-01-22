@@ -1,3 +1,28 @@
+/*** Home Page ***/
+/* top widget */
+@media only screen and (min-width: 660px) {
+	#feat-top-wrap {
+		background-image: url('http://www.genmag.com/wp-content/uploads/2016/01/genmag-title-gradient.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-color: #0883D1;
+		background-position: center center;
+	}
+	
+	.feat-wide5-img {
+		background: transparent;
+	}
+	
+	.feat-wide5-img img {
+		top: 70%;
+	}
+	
+	.feat-wide5-main {
+		width: 25%;
+		margin-left: 0;
+	}
+}
+
 /*** Column System ***/
 .col-1 {
 	width: 8.3333%;
@@ -48,6 +73,22 @@
 }
 
 /*** HOME ***/
+/* center main menu */
+@media only screen and (min-width: 1004px) {
+	#menu-top-1 {
+		width: 400px;
+		margin: 0 auto;
+		float: none;
+		padding-left: 63px;
+	}
+	
+	.nav-logo-in-fade #menu-top-1 {
+		padding-left: 0;
+		padding-right: 157px;
+	}
+}
+
+/* end */
 .home #tab-col1 .home-title-wrap {
 	background: url('http://www.genmag.com/wp-content/uploads/2015/10/sb.jpg');
 }
